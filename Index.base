@@ -1,0 +1,29 @@
+properties:
+  file.basename:
+    displayName: Name
+  file.ctime:
+    displayName: Created Time
+  file.mtime:
+    displayName: Motified
+  file.name:
+    displayName: Name
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - Author
+      - Maintainer
+      - tags
+      - aliases
+      - file.mtime
+      - Complete
+    columnSize:
+      file.name: 368
+      note.Maintainer: 137
+      note.tags: 126
+      note.aliases: 143
+      file.mtime: 206
+  - type: cards
+    name: Cards
+    cardSize: 180
