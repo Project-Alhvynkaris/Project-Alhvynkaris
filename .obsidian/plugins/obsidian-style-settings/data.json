@@ -1,0 +1,20 @@
+{
+  "baseline-style@@accented-interface": false,
+  "baseline-style@@background-contrast-light": "contrast-light",
+  "baseline-style@@color-scheme-dark": "default-dark",
+  "baseline-style@@background-contrast-dark": "contrast-dark-tonal",
+  "baseline-style@@color-scheme-accent": false,
+  "baseline-style@@radius-modifier": 0.75,
+  "baseline-style@@density-modifier": 1,
+  "baseline-style@@icon-stroke-modifier": 1,
+  "baseline-style@@status-bar-style": "status-bar-compact",
+  "baseline-style@@anim-motion-baseline": "cubic-bezier(0.32, 0.72, 0, 1)",
+  "baseline-style@@anim-speed-modifier": 0.4,
+  "baseline-style@@focus-view": "focus-view-tabs",
+  "cupertino@@center-tabs-off": false,
+  "cupertino@@hide-frontmatter-off": false,
+  "cupertino@@accented-frame-opacity": 0,
+  "cupertino@@hide-status-off": false,
+  "cupertino@@blur-effect-off": false,
+  "dashboard-theme@@theme-variant": "matcha"
+}
