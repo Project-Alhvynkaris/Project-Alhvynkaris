@@ -1,5 +1,5 @@
 {
-  "promptDelete": false,
+  "promptDelete": true,
   "vimMode": false,
   "showInlineTitle": true,
   "alwaysUpdateLinks": true,
