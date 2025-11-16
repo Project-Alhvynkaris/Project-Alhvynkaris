@@ -1,6 +1,6 @@
 {
   "cssTheme": "Baseline",
-  "interfaceFontFamily": "Consolas",
-  "textFontFamily": "Consolas",
-  "monospaceFontFamily": "Consolas"
+  "interfaceFontFamily": "Adwaita Sans",
+  "textFontFamily": "Adwaita Sans",
+  "monospaceFontFamily": "Adwaita Sans"
 }

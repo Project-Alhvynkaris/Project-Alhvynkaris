@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic.md",
+                "file": "Alh Style Guide.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Magic"
+              "title": "Alh Style Guide"
             }
           }
         ]
@@ -109,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378.5,
-    "collapsed": true
+    "width": 378.5
   },
   "right": {
     "id": "6baf7dd876e5e3c7",
@@ -234,15 +233,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": true,
       "markdown-importer:Open format converter": true,
-      "iconic:Open rulebook": true
+      "iconic:Open rulebook": false
     }
   },
   "active": "d5dafd32ff373119",
   "lastOpenFiles": [
+    "Magic.md",
     "Aalvakan.md",
     "Mana.md",
     "Alh Structure Guide.md",
-    "Magic.md",
     "Soul.md",
     "Index.base",
     "Alh Style Guide.md",
