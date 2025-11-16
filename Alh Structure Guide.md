@@ -5,9 +5,9 @@ Tags:
   - Index
 Aliases:
   - Home
-Complete: false
 ---
->*"Quote. Lorem ipsum and whatnot."*
+
+>*“Quote. Lorem ipsum and whatnot.”*
 >Quotee, optional short context.
 
 ---

@@ -8,14 +8,14 @@ aliases:
   - SI
   - Measuring
   - Measurements
-Complete:
 ---
->*"mm numberss~"
+
+>*“mm numbers~”
 >unknown mathmagician
 
 ---
 
-The 'SI' of [[Alhvynkaris]] in [[Alkaris]] is called the Aalvakan, which means 'Aa' as 'greater' and 'lvakan' as 'measure'. It is counted in base 10.
+The ‘SI’ of [[Alhvynkaris]] in [[Alkaris]] is called the Aalvakan, which means ‘Aa’ as ‘greater’ and ‘lvakan’ as ‘measure’. It is counted in base 10.
 
 ## Prefixes
 

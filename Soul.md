@@ -5,9 +5,9 @@ Tags:
   - Mechanic
 Aliases:
   - Spirit
-Complete: false
 ---
-> *"Ho ha ha, yes, my friend, this world is four dimensional!"*
-> A mage of questionable sobriety.
+
+> *“Ha ha ha, yes, my friend! You will soon die.”*
+>A mage of questionable sobriety.
 
 ---

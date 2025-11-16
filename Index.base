@@ -12,12 +12,6 @@ views:
     name: Table
     order:
       - file.name
-      - Author
-      - Maintainer
-      - tags
-      - aliases
-      - file.mtime
-      - Complete
     columnSize:
       file.name: 368
       note.Maintainer: 137
