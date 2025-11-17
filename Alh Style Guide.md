@@ -12,10 +12,10 @@ Aliases:
 
 ---
 
-A short and general description of the following document; what is it and what is it not, in extremely brief summary. Write in US English. The [Linter](https://github.com/platers/obsidian-linter) plugin should handle some errors, but not all.
+A short and general description of the following document; what is it and what is it not, in a brief (1-3 sentence) summary. Write in US English. The [Linter](https://github.com/platers/obsidian-linter) plugin should handle some errors, but not all. Write with American English.
 
 ## Initial Heading for First Topic
-And the information about it. Do not overuse H2 headings. Write with all numbers as numerals, unless it is in a quote. Write pedantically: assume your reader to be of appropriate intellect, capable of basic reasoning, and not a child to be overly guided. If a topic is dependent on other documents for understanding and does not include the relevant info in a previous topic on the same document, ***link the supplementary documents*** instead of assuming assumption, directly to its header if possible.
+And the information about it. Do not overuse H2 headings. Write with all numbers as numerals, unless it is in a quote. Write akin to the [Wikipedia Manual of Style](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style): straightforward, succint, in easily understood language[^1]. If a topic is dependent on other documents for understanding and does not include the relevant info in a previous topic on the same document, ***link the supplementary documents*** instead of assuming assumption, directly to its header if possible, preferably a link to the [[Alh Structure Guide|document]] in the sentence.
 
 > *“Quotes within topics follow the same formatting as the initial flair quote, but it is preferable for it to be more relevant and meaningful.”*
 >Full Capitalized Name, even if mentioned in previous paragraphs or in previous quotes
@@ -48,3 +48,5 @@ General information that isn’t large enough for its own H3.
 - E.g. as in for example, same clause as misc, but writing out the full *for example*.
 - I.e. as in that is, same clause as misc, but writing out the full *that is*.
 - Alh as Alhvynkaris (only after possible semantic satiation or if it must be written frequently).
+
+[^1] Use complicated words to *condense* information, i.e., to get to the point quicker. Do **not** use complicated words to add to your word count. Ensure your reader is capable of searching up the definition of words, so keep to common American English dictionaries.
