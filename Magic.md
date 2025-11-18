@@ -7,7 +7,7 @@ aliases:
 ---
 
 >*“…undoubtedly, the collective instinct of mages everywhere to show off.”*
->[ArcaneCadence](https://www.royalroad.com/fiction/118891/new-life-as-a-max-level-archmage/chapter/2515238/40-the-thaumaturgical-institute)
+>[ArcaneCadence](https://www.royalroad.com/fiction/118891/new-life-as-a-max-level-archmage/chapter/2515238/40-the-thaumaturgical-institute), New Life as a Max Level Archmage, chapter 40.
 
 ---
 
@@ -17,7 +17,16 @@ This document details the expression and art of magic. For more detailed informa
 All magic is the usage of *runes*; symbols with special meaning to the universe that influence the universe when given mana. There are 6 categories of runes: Definition, Observation, Argumentation, Manifestation, Alteration, Declaration. The former 3 can be referred to as Definitive runes, and the latter 3 can be referred to as Imperative runes.
 
 ### Definition Runes
-Definition runes store information and can be referred to by other Imperative runes. They are the basis of any spell, being almost always required for safe and predictable casting.[^1]
+Definition runes store information and can be referred to by other Imperative runes. They are the basis of any spell, being almost always required for safe and predictable casting.[^1] The information they store is exclusively in [[Abstraction]], the magical language conveying concepts such as 'fire' and 'death' and 'math'. The higher [[Magic#A Measure of a Mage|Circle]] the Definition rune is, the more advanced Abstraction it can hold.
+
+There are 3 types of Definition runes: Exact, Limitation, and Objective runes. Limitation runes are the boundaries that the Definitions imply, and Objective runes are the goals that the Definitions imply. Exact runes define the exact Definition like a Limitation and Objective at the same time. The downside of compressing 2 kinds of runes into 1 is that Exact runes are more expensive, but it does increase precision.
+
+Definition precision is a phenomenon that usually isn't a problem in most spells, but in complicated spells requiring precise results, Defining a state with Limitations and Objectives can hide subtle conceptual differences between the two.
+
+Imagine a Limitation rune stating "The object should only be this wet," and an Objective
+
+### Observation Runes
+When casting a spell, it can be difficult to change your Definition runes while its being or have been casted. Observation runes solve this issue by Observing things around them.
 
 ## A Measure of a Mage
 Mages are split into 13 Circles; effectively, their rank. First through Twelfth Circles are *‘normal’*. Thirteenth Circles are called [[Alhvarikos]], the heralds of the [[Alvekai]].
