@@ -6,4 +6,4 @@ It gets nerdier every day, and we need your help to patch up our overly complex 
 
 This project is MEANT TO BE READ ON [OBSIDIAN](https://obsidian.md/download). Obsidian is a free and offline markdown reader available on [Linux](https://github.com/obsidianmd/obsidian-releases/releases/download/v1.10.3/Obsidian-1.10.3.AppImage), [Windows](https://github.com/obsidianmd/obsidian-releases/releases/download/v1.10.3/Obsidian-1.10.3.exe), [Mac](https://github.com/obsidianmd/obsidian-releases/releases/download/v1.10.3/Obsidian-1.10.3.dmg), [iOS](https://apps.apple.com/us/app/obsidian-connected-notes/id1557175442), and [Android](https://play.google.com/store/apps/details?id=md.obsidian).
 
-test if discord webhook is working ;ww;
+test if discord webhook is working ;ww; 2
