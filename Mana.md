@@ -24,7 +24,7 @@ For example, a fireball 1 meter in diameter at 1500K,[^1] burning typical air, f
 Mana has numerous, curious properties, of which mostly give it fascinating side effects.
 
 - When accelerated, mana emits electromagnetic waves equivalent to the rate it is accelerated at. It always emits human-visible light.
-- In contact with any matter, mana converts into kinetic energy.
+- In contact with any matter, mana converts into kinetic energy into the matter it comes into contact with.
 	- Mana under sufficient mana control will not covert to kinetic energy.
 
 [^1]: 1226.8C
