@@ -15,7 +15,7 @@ aliases:
 
 ---
 
-The ‘SI’ of [[Alhvynkaris]] in [[Alkaris]] is called the Aalvakan, which means ‘Aa’ as ‘greater’ and ‘lvakan’ as ‘measure’. It is counted in base 10.
+The SI of [[Alhvynkaris]] in [[Alkaris]] is called the Aalvakan, which means ‘Aa’ as ‘greater’ and ‘lvakan’ as ‘measure’. It is counted in base 10[^1].
 
 ## Prefixes
 
@@ -64,3 +64,5 @@ The ‘SI’ of [[Alhvynkaris]] in [[Alkaris]] is called the Aalvakan, which mea
 | Kilogram    | Kaiva   |
 | Millisecond | Meita   |
 | Gigaampere  | Gaila   |
+
+[^1]: I would've done base 12, of which is arguably far superior, but I don't have the mental capacity nor want to put the strain on writers when doing lore accurate measurements in base 12 while referring to it in base 10 SI.

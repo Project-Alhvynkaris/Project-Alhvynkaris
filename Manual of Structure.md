@@ -8,7 +8,7 @@ Aliases:
 ---
 
 >*“Quote. Lorem ipsum and whatnot.”*
->Quotee, optional short context.
+>Quotee, optional short context/flair.
 
 ---
 
@@ -18,6 +18,8 @@ Introduction. What is the document? What is the document not? Lorem ipsum dolor 
 About topic 1. Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis.
 
 ### Subtopic
+About subtopic, related to topic 1. Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis.
+
 ## Topic 2
 About topic 2. Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis.
 
