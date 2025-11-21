@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soul.md",
+                "file": "Manual of Style.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Soul"
+              "title": "Manual of Style"
             }
           }
         ]
@@ -239,6 +239,8 @@
   },
   "active": "d5dafd32ff373119",
   "lastOpenFiles": [
+    "Manual of Structure.md",
+    "Soul.md",
     "README.md",
     "Mana.md",
     "Magic.md",
@@ -246,7 +248,6 @@
     "Alh Style Guide.md",
     "Alh Structure Guide.md",
     "Aalvakan.md",
-    "Soul.md",
     "Default File.md",
     "Untitled 1.md",
     "Playground.md",
