@@ -82,7 +82,7 @@
       "alias-helper-key": "linter-yaml-title-alias"
     },
     "capitalize-headings": {
-      "enabled": true,
+      "enabled": false,
       "style": "Title Case",
       "ignore-case-words": true,
       "ignore-words": "",
