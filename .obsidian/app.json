@@ -9,5 +9,6 @@
   "showLineNumber": true,
   "useTab": true,
   "readableLineLength": false,
-  "spellcheck": false
+  "spellcheck": false,
+  "strictLineBreaks": false
 }

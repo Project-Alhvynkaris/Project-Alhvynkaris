@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Manual of Style.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Manual of Style"
+              "title": "README"
             }
           }
         ]
@@ -239,6 +239,7 @@
   },
   "active": "d5dafd32ff373119",
   "lastOpenFiles": [
+    "Manual of Style.md",
     "Manual of Structure.md",
     "Soul.md",
     "README.md",

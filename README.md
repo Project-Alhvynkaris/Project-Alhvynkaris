@@ -9,3 +9,4 @@ This project is MEANT TO BE READ ON [OBSIDIAN](https://obsidian.md/download). Ob
 If you want to join and help, visit our Discord at [MAKE THE SERVER, WILT]
 
 In the project's current state, the repo is generally closed off while I (wilt_r) write in the initial premise and structure. Once its done, you can help contribute to solve plot holes, add more features, and maybe, just maybe, we can figure out geojson together like real gis technicians >:O
+i fear geojson like nothing else
