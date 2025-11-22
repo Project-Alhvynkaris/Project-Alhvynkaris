@@ -19,14 +19,15 @@ All magic is the usage of *runes*; symbols with special meaning to the universe 
 ### Definition Runes
 Definition runes store information and can be referred to by other Imperative runes. They are the basis of any spell, being almost always required for safe and predictable casting.[^1] The information they store is exclusively in [[Abstraction]], the magical language conveying concepts such as 'fire' and 'death' and 'math'. The higher [[Magic#A Measure of a Mage|Circle]] the Definition rune is, the more advanced Abstraction it can hold.
 
-There are 3 types of Definition runes: Exact, Limitation, and Objective runes. Limitation runes are the boundaries that the Definitions imply, and Objective runes are the goals that the Definitions imply. Exact runes define the exact Definition like a Limitation and Objective at the same time. The downside of compressing 2 kinds of runes into 1 is that Exact runes are more expensive, but it does increase precision.
+There are 2 types of Definition runes: Thesis and Antithesis runes. Thesis runes are basically the "goals," of a Definition. Antithesis are essentially the opposite; the "anti-goal," of a Definition. Thesis runes can be used together to get the *average concept*--which can yield curious results, such as finding the average concept of fire and ice. Read more on average concepts [[Abstraction#Average Concepts|here]].
 
-Definition precision is a phenomenon that usually isn't a problem in most spells, but in complicated spells requiring precise results, Defining a state with Limitations and Objectives can hide subtle conceptual differences between the two.
-
-Imagine a Limitation rune stating "The object should only be this wet," and an Objective
+Alas, concept *paradoxes* are unstable
 
 ### Observation Runes
 When casting a spell, it can be difficult to change your Definition runes while its being or have been casted. Observation runes solve this issue by Observing things around them.
+
+### Alteration Runes
+  In order to get more advanced, logical behavior, one can utilize Argumentation runes. Effectively, they are logic gates for Abstraction used to process Abstraction for more automatic and context aware Iter
 
 ## A Measure of a Mage
 Mages are split into 13 Circles; effectively, their rank. First through Twelfth Circles are *‘normal’*. Thirteenth Circles are called [[Alhvarikos]], the heralds of the [[Alvekai]].
